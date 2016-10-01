@@ -1,0 +1,654 @@
+*** FATAL INTERNAL ERROR in "Ready" ***
+Date: Jan 9 2016 1:36 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 3:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Previous Operations:
+    Text - sz:528:13409 - slFr:273:0:6758 - slTo:266:27:6768 - nlA:0
+    Line Starts: 525:13392 526:13407 527:13408 528:13409
+    Delete Selection (2) - From line: 266 - From col: 27 - To line: 273 - To col: 0
+    Delete Selection (3) - sz:527:13399 - slFr:6758 - slTo:6758 - nlA:0
+    Line Starts: 524:13382 525:13397 526:13398 527:13399
+    Insert Text (1) - Text: c3a718 - size: 16 - clean: 1
+    Text - sz:527:13399 - slFr:6758 - slTo:6758 - nlA:0
+    Line Starts: 524:13382 525:13397 526:13398 527:13399
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:528:13415 - slFr:6774 - slTo:6774 - nlA:0
+    Line Starts: 525:13398 526:13413 527:13414 528:13415
+    Undo (3) - sz:528:13415 - slFr:6774 - slTo:6707 - nlA:0
+    Line Starts: 525:13398 526:13413 527:13414 528:13415
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c3a718 - Undo: 1
+    Text - sz:528:13415 - slFr:276:0:6774 - slTo:274:1:6707 - nlA:0
+    Line Starts: 525:13398 526:13413 527:13414 528:13415
+    Undo (2) - Undo size: 17 - Repl from: 6320 - Repl to: 6325
+    Delete Selection (1) - Text: c3a718
+    Text - sz:528:13415 - slFr:276:0:6320 - slTo:274:1:6325 - nlA:0
+    Line Starts: 525:13398 526:13413 527:13414 528:13415
+    Delete Selection (2) - From line: 274 - From col: 1 - To line: 276 - To col: 0
+    Delete Selection (3) - sz:527:13410 - slFr:6320 - slTo:6320 - nlA:0
+    Line Starts: 524:13393 525:13408 526:13409 527:13410
+    Insert Text (1) - Text: c3a718 - size: 17 - clean: 1
+    Text - sz:527:13410 - slFr:6320 - slTo:6320 - nlA:0
+    Line Starts: 524:13393 525:13408 526:13409 527:13410
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:528:13427 - slFr:6337 - slTo:6337 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+    Undo (3) - sz:528:13427 - slFr:6336 - slTo:6158 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c3a718 - Undo: 1
+    Text - sz:528:13427 - slFr:259:38:6336 - slTo:256:16:6158 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+    Undo (2) - Undo size: 17 - Repl from: 6769 - Repl to: -842150451
+    Insert Text (1) - Text: c3a718 - size: 17 - clean: 1
+    Text - sz:528:13427 - slFr:259:38:6769 - slTo:256:16:-842150451 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:529:13444 - slFr:6786 - slTo:-842150434 - nlA:0
+    Line Starts: 526:13427 527:13442 528:13443 529:13444
+    Undo (3) - sz:529:13444 - slFr:6785 - slTo:6158 - nlA:0
+    Line Starts: 526:13427 527:13442 528:13443 529:13444
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c3a718 - Undo: 1
+    Text - sz:529:13444 - slFr:275:32:6785 - slTo:256:16:6158 - nlA:0
+    Line Starts: 526:13427 527:13442 528:13443 529:13444
+    Undo (2) - Undo size: 17 - Repl from: 6769 - Repl to: -842150451
+    Insert Text (1) - Text: c3a718 - size: 17 - clean: 1
+    Text - sz:529:13444 - slFr:275:32:6769 - slTo:256:16:-842150451 - nlA:0
+    Line Starts: 526:13427 527:13442 528:13443 529:13444
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:530:13461 - slFr:6786 - slTo:-842150434 - nlA:0
+    Line Starts: 527:13444 528:13459 529:13460 530:13461
+    Undo (3) - sz:530:13461 - slFr:6785 - slTo:6158 - nlA:0
+    Line Starts: 527:13444 528:13459 529:13460 530:13461
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c3a718 - Undo: 1
+    Text - sz:530:13461 - slFr:275:32:6785 - slTo:256:16:6158 - nlA:0
+    Line Starts: 527:13444 528:13459 529:13460 530:13461
+    Undo (2) - Undo size: 0 - Repl from: 5992 - Repl to: 6026
+    Delete Selection (1) - Text: c3a718
+    Text - sz:530:13461 - slFr:275:32:5992 - slTo:256:16:6026 - nlA:0
+    Line Starts: 527:13444 528:13459 529:13460 530:13461
+    Delete Selection (2) - From line: 256 - From col: 16 - To line: 275 - To col: 32
+    Delete Selection (3) - sz:528:13427 - slFr:5992 - slTo:5992 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+    Undo (3) - sz:528:13427 - slFr:5992 - slTo:5992 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_INDENT
+    Indent (1) - Text: c3a718
+    Text - sz:528:13427 - slFr:249:31:5992 - slTo:249:31:5992 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+    Set Selection (1) - Text: c3a718 - L: 249 - C: 0
+    Text - sz:528:13550 - slFr:5992 - slTo:5992 - nlA:0
+    Line Starts: 525:13533 526:13548 527:13549 528:13550
+    Set Selection (2) - sz:528:13550 - slFr:5961 - slTo:5961 - nlA:0
+    Line Starts: 525:13533 526:13548 527:13549 528:13550
+    Indent (2) - sz:528:13550 - slFr:5961 - slTo:5961 - nlA:0
+    Line Starts: 525:13533 526:13548 527:13549 528:13550
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c3a718 - Undo: 1
+    Text - sz:528:13550 - slFr:249:0:5961 - slTo:249:0:5961 - nlA:0
+    Line Starts: 525:13533 526:13548 527:13549 528:13550
+    Undo (2) - Undo size: 13427 - Repl from: 0 - Repl to: 13550
+    Delete Selection (1) - Text: c3a718
+    Text - sz:528:13550 - slFr:249:0:0 - slTo:249:0:13550 - nlA:0
+    Line Starts: 525:13533 526:13548 527:13549 528:13550
+    Delete Selection (2) - From line: 249 - From col: 0 - To line: 249 - To col: 0
+    Delete Selection (3) - sz:0:0 - slFr:0 - slTo:0 - nlA:0
+    Line Starts: 0:0
+    Insert Text (1) - Text: c3a718 - size: 13427 - clean: 1
+    Text - sz:0:0 - slFr:0 - slTo:0 - nlA:0
+    Line Starts: 0:0
+    Insert Text (2) - numNewLines: 528
+    Insert Text (3) - sz:528:13427 - slFr:13427 - slTo:13427 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+    Undo (3) - sz:528:13427 - slFr:5992 - slTo:5992 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c3a718 - Undo: 1
+    Text - sz:528:13427 - slFr:249:31:5992 - slTo:249:31:5992 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+    Undo (2) - Undo size: 363 - Repl from: 13024 - Repl to: 13024
+    Insert Text (1) - Text: c3a718 - size: 363 - clean: 1
+    Text - sz:528:13427 - slFr:249:31:13024 - slTo:249:31:13024 - nlA:0
+    Line Starts: 525:13410 526:13425 527:13426 528:13427
+    Insert Text (2) - numNewLines: 10
+    Insert Text (3) - sz:538:13790 - slFr:13387 - slTo:13387 - nlA:0
+    Line Starts: 535:13773 536:13788 537:13789 538:13790
+    Undo (3) - sz:538:13790 - slFr:13387 - slTo:13024 - nlA:0
+    Line Starts: 535:13773 536:13788 537:13789 538:13790
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c3a718 - Undo: 1
+    Text - sz:538:13790 - slFr:519:9:13387 - slTo:509:9:13024 - nlA:0
+    Line Starts: 535:13773 536:13788 537:13789 538:13790
+    Undo (2) - Undo size: 0 - Repl from: 13405 - Repl to: 13684
+    Delete Selection (1) - Text: c3a718
+    Text - sz:538:13790 - slFr:519:9:13405 - slTo:509:9:13684 - nlA:0
+    Line Starts: 535:13773 536:13788 537:13789 538:13790
+    Delete Selection (2) - From line: 509 - From col: 9 - To line: 519 - To col: 9
+    Delete Selection (3) - sz:529:13511 - slFr:13405 - slTo:13405 - nlA:0
+    Line Starts: 526:13494 527:13509 528:13510 529:13511
+    Undo (3) - sz:529:13511 - slFr:13405 - slTo:13405 - nlA:0
+    Line Starts: 526:13494 527:13509 528:13510 529:13511
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c3a718 - Undo: 1
+    Text - sz:529:13511 - slFr:519:27:13405 - slTo:519:27:13405 - nlA:0
+    Line Starts: 526:13494 527:13509 528:13510 529:13511
+    Undo (2) - Undo size: 0 - Repl from: 13387 - Repl to: 13405
+    Delete Selection (1) - Text: c3a718
+    Text - sz:529:13511 - slFr:519:27:13387 - slTo:519:27:13405 - nlA:0
+    Line Starts: 526:13494 527:13509 528:13510 529:13511
+    Delete Selection (2) - From line: 519 - From col: 27 - To line: 519 - To col: 27
+    Delete Selection (3) - sz:529:13493 - slFr:13387 - slTo:13387 - nlA:0
+    Line Starts: 526:13476 527:13491 528:13492 529:13493
+    Undo (3) - sz:529:13493 - slFr:13387 - slTo:13387 - nlA:0
+    Line Starts: 526:13476 527:13491 528:13492 529:13493
+  CMD: WM_INITMENU (W)
+
+
+
+The environment has experienced an unexpected internal error.
+
+This error is caused by a bug in the environment and is not your fault!
+Details about the crash have been saved in the file "E:\FINAL GAME\panic.log".
+
+If possible, please e-mail this file to readybugs@hsa.on.ca
+
+Here are some details about the error:
+   Error = LoadString failed (-572662307) (6002)
+   Windows error = The specified resource name cannot be found in the image file. (1814)
+   File = src\edgui.c
+   Line = 1435
+
+All unsaved open files will be saved with a ".sav" or ".sv#" extension.
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\WINDOWS\SYSTEM32\ntdll.dll
+    C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+    C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+    C:\WINDOWS\SYSTEM32\USER32.dll
+    C:\WINDOWS\SYSTEM32\GDI32.dll
+    C:\WINDOWS\SYSTEM32\comdlg32.dll
+    C:\WINDOWS\SYSTEM32\msvcrt.dll
+    C:\WINDOWS\SYSTEM32\combase.dll
+    C:\WINDOWS\SYSTEM32\RPCRT4.dll
+    C:\WINDOWS\SYSTEM32\SspiCli.dll
+    C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+    C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+    C:\WINDOWS\SYSTEM32\sechost.dll
+    C:\WINDOWS\SYSTEM32\shcore.dll
+    C:\WINDOWS\SYSTEM32\SHLWAPI.dll
+    C:\WINDOWS\SYSTEM32\SHELL32.dll
+    C:\WINDOWS\SYSTEM32\windows.storage.dll
+    C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.10240.16384_none_49c02355cf03478c\COMCTL32.dll
+    C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+    C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+    C:\WINDOWS\SYSTEM32\powrprof.dll
+    C:\WINDOWS\SYSTEM32\profapi.dll
+    C:\WINDOWS\SYSTEM32\VERSION.dll
+    C:\WINDOWS\SYSTEM32\WINMM.dll
+    C:\WINDOWS\SYSTEM32\winmmbase.dll
+    C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+    C:\WINDOWS\SYSTEM32\DEVOBJ.dll
+    C:\WINDOWS\SYSTEM32\IMM32.DLL
+    C:\WINDOWS\SYSTEM32\MSCTF.dll
+    C:\WINDOWS\system32\uxtheme.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\WINDOWS\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\WINDOWS\system32\dwmapi.dll
+    C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10240.16384_none_3bccb1ff6bcd1849\comctl32.DLL
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\WINDOWS\SYSTEM32\WS2_32.dll
+    C:\WINDOWS\SYSTEM32\NSI.dll
+    C:\WINDOWS\system32\NLAapi.dll
+    C:\WINDOWS\system32\napinsp.dll
+    C:\WINDOWS\system32\pnrpnsp.dll
+    C:\WINDOWS\System32\mswsock.dll
+    C:\WINDOWS\SYSTEM32\DNSAPI.dll
+    C:\WINDOWS\System32\winrnr.dll
+    C:\WINDOWS\system32\wshbth.dll
+    C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+    C:\WINDOWS\SYSTEM32\WINNSI.DLL
+    C:\WINDOWS\System32\fwpuclnt.dll
+    C:\WINDOWS\SYSTEM32\bcrypt.dll
+    C:\Windows\System32\rasadhlp.dll
+    C:\WINDOWS\SYSTEM32\dbghelp.dll
+
+  0 .V PC=0023:77a3891c Ret=75bd8c62 Frame=0019b368 Stack=0019b2f8
+    Parameters (0x00000714 0x00003a98 0x00000000 0x0019dc24)
+    Unknown module, NtWaitForSingleObject() + 0012 byte(s)
+  1 .V PC=0023:75bd8c62 Ret=004162f5 Frame=0019b37c Stack=0019b370
+    Parameters (0x00000714 0x00003a98 0x0019e454 0x0019dc64)
+    Unknown module, WaitForSingleObject() + 0018 byte(s)
+  2 .V PC=0023:004162f5 Ret=00415768 Frame=0019dc24 Stack=0019b384
+    Parameters (0x00000001 0x00001772 0x00591168 0x0000059b)
+    src\edfail.c, MyFailErrorBox (), Line 0987+0020 byte(s)
+  3 .V PC=0023:00415768 Ret=0041c125 Frame=0019dc4c Stack=0019dc2c
+    Parameters (0x00001772 0x00591168 0x0000059b 0x00000716)
+    src\edfail.c, EdFail_Fatal (), Line 0494+0027 byte(s)
+  4 .V PC=0023:0041c125 Ret=0044aaf3 Frame=0019dc70 Stack=0019dc54
+    Parameters (0xdddddddd 0x0019e3fc 0x00000050 0x00448681)
+    src\edgui.c, EdGUI_LoadString (), Line 1436+0040 byte(s)
+  5 .V PC=0023:0044aaf3 Ret=00448a0e Frame=0019e454 Stack=0019dc78
+    Parameters (0x00f21a2c 0x06561d6d 0x06561d6d 0x00000116)
+    src\edwin.c, MyMenusAdjust (), Line 2621+0018 byte(s)
+  6 .V PC=0023:00448a0e Ret=74db4923 Frame=0019e484 Stack=0019e45c
+    Parameters (0x00f21a2c 0x00000116 0x06561d6d 0x00000000)
+    src\edwin.c, MyEditorWindowProcedure (), Line 1503+0013 byte(s)
+  7 .V PC=0023:74db4923 Ret=74d94790 Frame=0019e4b0 Stack=0019e48c
+    Parameters (0x00448681 0x00f21a2c 0x00000116 0x06561d6d)
+    Unknown module, CharNextW() + 0115 byte(s)
+  8 .V PC=0023:74d94790 Ret=74d94370 Frame=0019e558 Stack=0019e4b8
+    Parameters (0x00448681 0x00000000 0x00000116 0x06561d6d)
+    Unknown module, CallWindowProcW() + 0768 byte(s)
+  9 .V PC=0023:74d94370 Ret=74d9b179 Frame=0019e5b8 Stack=0019e560
+    Parameters (0x0119d0d0 0x00000000 0x00000116 0x06561d6d)
+    Unknown module, DispatchMessageW() + 1328 byte(s)
+ 10 .V PC=0023:74d9b179 Ret=77a3ab56 Frame=0019e5f8 Stack=0019e5c0
+    Parameters (0x0019e614 0x00000020 0x0019ff70 0x77a3aaa0)
+    Unknown module, PeekMessageW() + 1353 byte(s)
+ 11 .V PC=0023:77a3ab56 Ret=004031d4 Frame=0019e650 Stack=0019e600
+    Parameters (0x00f21a2c 0xa3900675 0x0019e678 0x0019e674)
+    Unknown module, KiUserCallbackDispatcher() + 0054 byte(s)
+ 12 .V PC=0023:004031d4 Ret=00403190 Frame=0019e668 Stack=0019e658
+    Parameters (0x0019e678 0x0019e6a0 0x00261646 0x00000100)
+    src\ed.c, MyProcessMessage (), Line 1842+0041 byte(s)
+ 13 .V PC=0023:00403190 Ret=0040170f Frame=0019e698 Stack=0019e670
+    Parameters (0x0052cb00 0x0052cb00 0xcccccccc 0xcccccccc)
+    src\ed.c, MyProcessEvents (), Line 1818+0009 byte(s)
+ 14 .V PC=0023:0040170f Ret=0052cc26 Frame=0019fef0 Stack=0019e6a0
+    Parameters (0x00400000 0x00000000 0x00883174 0x00000001)
+    src\ed.c, WinMain (), Line 0470+0005 byte(s)
+ 15 .V PC=0023:0052cc26 Ret=75223744 Frame=0019ff80 Stack=0019fef8
+    Parameters (0x7ffde000 0x75223720 0x687382a3 0x0019ffdc)
+    crt0.c, WinMainCRTStartup (), Line 0198+0054 byte(s)
+ 16 .V PC=0023:75223744 Ret=77a29cd4 Frame=0019ff94 Stack=0019ff88
+    Parameters (0x7ffde000 0x3e3805b7 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0036 byte(s)
+ 17 .V PC=0023:77a29cd4 Ret=77a29c9f Frame=0019ffdc Stack=0019ff9c
+    Parameters (0xffffffff 0x77a4d4b3 0x00000000 0x00000000)
+    Unknown module, RtlSetCurrentTransaction() + 0212 byte(s)
+ 18 .V PC=0023:77a29c9f Ret=00000000 Frame=0019ffec Stack=0019ffe4
+    Parameters (0x0052cb00 0x7ffde000 0x00000000 0x78746341)
+    Unknown module, RtlSetCurrentTransaction() + 0159 byte(s)
+
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 9 2016 3:32 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 3:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Access Violation
+
+Previous Operations:
+    Undo (3) - sz:539:13826 - slFr:4187 - slTo:4187 - nlA:0
+    Line Starts: 536:13795 537:13824 538:13825 539:13826
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13826 - slFr:166:22:4187 - slTo:166:22:4187 - nlA:0
+    Line Starts: 536:13795 537:13824 538:13825 539:13826
+    Undo (2) - Undo size: 11 - Repl from: 4188 - Repl to: 4188
+    Insert Text (1) - Text: c8a718 - size: 11 - clean: 1
+    Text - sz:539:13826 - slFr:166:22:4188 - slTo:166:22:4188 - nlA:0
+    Line Starts: 536:13795 537:13824 538:13825 539:13826
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13837 - slFr:4199 - slTo:4199 - nlA:0
+    Line Starts: 536:13806 537:13835 538:13836 539:13837
+    Undo (3) - sz:539:13837 - slFr:4199 - slTo:4189 - nlA:0
+    Line Starts: 536:13806 537:13835 538:13836 539:13837
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13837 - slFr:166:34:4199 - slTo:166:24:4189 - nlA:0
+    Line Starts: 536:13806 537:13835 538:13836 539:13837
+    Undo (2) - Undo size: 14 - Repl from: 4199 - Repl to: 4199
+    Insert Text (1) - Text: c8a718 - size: 14 - clean: 1
+    Text - sz:539:13837 - slFr:166:34:4199 - slTo:166:24:4199 - nlA:0
+    Line Starts: 536:13806 537:13835 538:13836 539:13837
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13851 - slFr:4213 - slTo:4213 - nlA:0
+    Line Starts: 536:13820 537:13849 538:13850 539:13851
+    Undo (3) - sz:539:13851 - slFr:4213 - slTo:4199 - nlA:0
+    Line Starts: 536:13820 537:13849 538:13850 539:13851
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13851 - slFr:166:48:4213 - slTo:166:34:4199 - nlA:0
+    Line Starts: 536:13820 537:13849 538:13850 539:13851
+    Undo (2) - Undo size: 11 - Repl from: 4582 - Repl to: 4582
+    Insert Text (1) - Text: c8a718 - size: 11 - clean: 1
+    Text - sz:539:13851 - slFr:166:48:4582 - slTo:166:34:4582 - nlA:0
+    Line Starts: 536:13820 537:13849 538:13850 539:13851
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13862 - slFr:4593 - slTo:4593 - nlA:0
+    Line Starts: 536:13831 537:13860 538:13861 539:13862
+    Undo (3) - sz:539:13862 - slFr:4593 - slTo:4583 - nlA:0
+    Line Starts: 536:13831 537:13860 538:13861 539:13862
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13862 - slFr:181:32:4593 - slTo:181:22:4583 - nlA:0
+    Line Starts: 536:13831 537:13860 538:13861 539:13862
+    Undo (2) - Undo size: 11 - Repl from: 4604 - Repl to: 4604
+    Insert Text (1) - Text: c8a718 - size: 11 - clean: 1
+    Text - sz:539:13862 - slFr:181:32:4604 - slTo:181:22:4604 - nlA:0
+    Line Starts: 536:13831 537:13860 538:13861 539:13862
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13873 - slFr:4615 - slTo:4615 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (3) - sz:539:13873 - slFr:4615 - slTo:4605 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13873 - slFr:181:54:4615 - slTo:181:44:4605 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (2) - Undo size: 2 - Repl from: 4601 - Repl to: 4603
+    Delete Selection (1) - Text: c8a718
+    Text - sz:539:13873 - slFr:181:54:4601 - slTo:181:44:4603 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Delete Selection (2) - From line: 181 - From col: 44 - To line: 181 - To col: 54
+    Delete Selection (3) - sz:539:13871 - slFr:4601 - slTo:4601 - nlA:0
+    Line Starts: 536:13840 537:13869 538:13870 539:13871
+    Insert Text (1) - Text: c8a718 - size: 2 - clean: 1
+    Text - sz:539:13871 - slFr:4601 - slTo:4601 - nlA:0
+    Line Starts: 536:13840 537:13869 538:13870 539:13871
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13873 - slFr:4603 - slTo:4603 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (3) - sz:539:13873 - slFr:4603 - slTo:4603 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13873 - slFr:181:42:4603 - slTo:181:42:4603 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (2) - Undo size: 2 - Repl from: 4581 - Repl to: 4581
+    Insert Text (1) - Text: c8a718 - size: 2 - clean: 1
+    Text - sz:539:13873 - slFr:181:42:4581 - slTo:181:42:4581 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13875 - slFr:4583 - slTo:4583 - nlA:0
+    Line Starts: 536:13844 537:13873 538:13874 539:13875
+    Undo (3) - sz:539:13875 - slFr:4583 - slTo:4583 - nlA:0
+    Line Starts: 536:13844 537:13873 538:13874 539:13875
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13875 - slFr:181:22:4583 - slTo:181:22:4583 - nlA:0
+    Line Starts: 536:13844 537:13873 538:13874 539:13875
+    Undo (2) - Undo size: 0 - Repl from: 4465 - Repl to: 4467
+    Delete Selection (1) - Text: c8a718
+    Text - sz:539:13875 - slFr:181:22:4465 - slTo:181:22:4467 - nlA:0
+    Line Starts: 536:13844 537:13873 538:13874 539:13875
+    Delete Selection (2) - From line: 181 - From col: 22 - To line: 181 - To col: 22
+    Delete Selection (3) - sz:539:13873 - slFr:4465 - slTo:4465 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (3) - sz:539:13873 - slFr:4465 - slTo:4465 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13873 - slFr:178:8:4465 - slTo:178:8:4465 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (2) - Undo size: 9 - Repl from: 4753 - Repl to: 4723
+    Insert Text (1) - Text: c8a718 - size: 9 - clean: 1
+    Text - sz:539:13873 - slFr:178:8:4753 - slTo:178:8:4723 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:540:13882 - slFr:4762 - slTo:4732 - nlA:0
+    Line Starts: 537:13851 538:13880 539:13881 540:13882
+    Undo (3) - sz:540:13882 - slFr:4761 - slTo:4465 - nlA:0
+    Line Starts: 537:13851 538:13880 539:13881 540:13882
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:540:13882 - slFr:193:29:4761 - slTo:178:8:4465 - nlA:0
+    Line Starts: 537:13851 538:13880 539:13881 540:13882
+    Undo (2) - Undo size: 13 - Repl from: 4379 - Repl to: 4404
+    Delete Selection (1) - Text: c8a718
+    Text - sz:540:13882 - slFr:193:29:4379 - slTo:178:8:4404 - nlA:0
+    Line Starts: 537:13851 538:13880 539:13881 540:13882
+    Delete Selection (2) - From line: 178 - From col: 8 - To line: 193 - To col: 29
+    Delete Selection (3) - sz:538:13857 - slFr:4379 - slTo:4379 - nlA:0
+    Line Starts: 535:13826 536:13855 537:13856 538:13857
+    Insert Text (1) - Text: c8a718 - size: 13 - clean: 1
+    Text - sz:538:13857 - slFr:4379 - slTo:4379 - nlA:0
+    Line Starts: 535:13826 536:13855 537:13856 538:13857
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:539:13870 - slFr:4392 - slTo:4392 - nlA:0
+    Line Starts: 536:13839 537:13868 538:13869 539:13870
+    Undo (3) - sz:539:13870 - slFr:4391 - slTo:4288 - nlA:0
+    Line Starts: 536:13839 537:13868 538:13869 539:13870
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13870 - slFr:172:32:4391 - slTo:170:12:4288 - nlA:0
+    Line Starts: 536:13839 537:13868 538:13869 539:13870
+    Undo (2) - Undo size: 13900 - Repl from: 0 - Repl to: 13900
+    Delete Selection (1) - Text: c8a718
+    Text - sz:539:13870 - slFr:172:32:0 - slTo:170:12:13900 - nlA:0
+    Line Starts: 536:13839 537:13868 538:13869 539:13870
+    Delete Selection (2) - From line: 170 - From col: 12 - To line: 172 - To col: 32
+
+
+Registers
+  EAX=07033696  EBX=00000001  ECX=3FFFF9A5  EDX=00000002  ESI=07035000
+  EDI=070319B4  EBP=0019DDA4  ESP=0019DD9C  EIP=00527F13  FLG=00210206
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+Not enough space for modules.
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 9 2016 3:32 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 3:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Access Violation
+
+Previous Operations:
+    Undo (3) - sz:539:13826 - slFr:4187 - slTo:4187 - nlA:0
+    Line Starts: 536:13795 537:13824 538:13825 539:13826
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13826 - slFr:166:22:4187 - slTo:166:22:4187 - nlA:0
+    Line Starts: 536:13795 537:13824 538:13825 539:13826
+    Undo (2) - Undo size: 11 - Repl from: 4188 - Repl to: 4188
+    Insert Text (1) - Text: c8a718 - size: 11 - clean: 1
+    Text - sz:539:13826 - slFr:166:22:4188 - slTo:166:22:4188 - nlA:0
+    Line Starts: 536:13795 537:13824 538:13825 539:13826
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13837 - slFr:4199 - slTo:4199 - nlA:0
+    Line Starts: 536:13806 537:13835 538:13836 539:13837
+    Undo (3) - sz:539:13837 - slFr:4199 - slTo:4189 - nlA:0
+    Line Starts: 536:13806 537:13835 538:13836 539:13837
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13837 - slFr:166:34:4199 - slTo:166:24:4189 - nlA:0
+    Line Starts: 536:13806 537:13835 538:13836 539:13837
+    Undo (2) - Undo size: 14 - Repl from: 4199 - Repl to: 4199
+    Insert Text (1) - Text: c8a718 - size: 14 - clean: 1
+    Text - sz:539:13837 - slFr:166:34:4199 - slTo:166:24:4199 - nlA:0
+    Line Starts: 536:13806 537:13835 538:13836 539:13837
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13851 - slFr:4213 - slTo:4213 - nlA:0
+    Line Starts: 536:13820 537:13849 538:13850 539:13851
+    Undo (3) - sz:539:13851 - slFr:4213 - slTo:4199 - nlA:0
+    Line Starts: 536:13820 537:13849 538:13850 539:13851
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13851 - slFr:166:48:4213 - slTo:166:34:4199 - nlA:0
+    Line Starts: 536:13820 537:13849 538:13850 539:13851
+    Undo (2) - Undo size: 11 - Repl from: 4582 - Repl to: 4582
+    Insert Text (1) - Text: c8a718 - size: 11 - clean: 1
+    Text - sz:539:13851 - slFr:166:48:4582 - slTo:166:34:4582 - nlA:0
+    Line Starts: 536:13820 537:13849 538:13850 539:13851
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13862 - slFr:4593 - slTo:4593 - nlA:0
+    Line Starts: 536:13831 537:13860 538:13861 539:13862
+    Undo (3) - sz:539:13862 - slFr:4593 - slTo:4583 - nlA:0
+    Line Starts: 536:13831 537:13860 538:13861 539:13862
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13862 - slFr:181:32:4593 - slTo:181:22:4583 - nlA:0
+    Line Starts: 536:13831 537:13860 538:13861 539:13862
+    Undo (2) - Undo size: 11 - Repl from: 4604 - Repl to: 4604
+    Insert Text (1) - Text: c8a718 - size: 11 - clean: 1
+    Text - sz:539:13862 - slFr:181:32:4604 - slTo:181:22:4604 - nlA:0
+    Line Starts: 536:13831 537:13860 538:13861 539:13862
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13873 - slFr:4615 - slTo:4615 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (3) - sz:539:13873 - slFr:4615 - slTo:4605 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13873 - slFr:181:54:4615 - slTo:181:44:4605 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (2) - Undo size: 2 - Repl from: 4601 - Repl to: 4603
+    Delete Selection (1) - Text: c8a718
+    Text - sz:539:13873 - slFr:181:54:4601 - slTo:181:44:4603 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Delete Selection (2) - From line: 181 - From col: 44 - To line: 181 - To col: 54
+    Delete Selection (3) - sz:539:13871 - slFr:4601 - slTo:4601 - nlA:0
+    Line Starts: 536:13840 537:13869 538:13870 539:13871
+    Insert Text (1) - Text: c8a718 - size: 2 - clean: 1
+    Text - sz:539:13871 - slFr:4601 - slTo:4601 - nlA:0
+    Line Starts: 536:13840 537:13869 538:13870 539:13871
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13873 - slFr:4603 - slTo:4603 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (3) - sz:539:13873 - slFr:4603 - slTo:4603 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13873 - slFr:181:42:4603 - slTo:181:42:4603 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (2) - Undo size: 2 - Repl from: 4581 - Repl to: 4581
+    Insert Text (1) - Text: c8a718 - size: 2 - clean: 1
+    Text - sz:539:13873 - slFr:181:42:4581 - slTo:181:42:4581 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:539:13875 - slFr:4583 - slTo:4583 - nlA:0
+    Line Starts: 536:13844 537:13873 538:13874 539:13875
+    Undo (3) - sz:539:13875 - slFr:4583 - slTo:4583 - nlA:0
+    Line Starts: 536:13844 537:13873 538:13874 539:13875
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13875 - slFr:181:22:4583 - slTo:181:22:4583 - nlA:0
+    Line Starts: 536:13844 537:13873 538:13874 539:13875
+    Undo (2) - Undo size: 0 - Repl from: 4465 - Repl to: 4467
+    Delete Selection (1) - Text: c8a718
+    Text - sz:539:13875 - slFr:181:22:4465 - slTo:181:22:4467 - nlA:0
+    Line Starts: 536:13844 537:13873 538:13874 539:13875
+    Delete Selection (2) - From line: 181 - From col: 22 - To line: 181 - To col: 22
+    Delete Selection (3) - sz:539:13873 - slFr:4465 - slTo:4465 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (3) - sz:539:13873 - slFr:4465 - slTo:4465 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13873 - slFr:178:8:4465 - slTo:178:8:4465 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Undo (2) - Undo size: 9 - Repl from: 4753 - Repl to: 4723
+    Insert Text (1) - Text: c8a718 - size: 9 - clean: 1
+    Text - sz:539:13873 - slFr:178:8:4753 - slTo:178:8:4723 - nlA:0
+    Line Starts: 536:13842 537:13871 538:13872 539:13873
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:540:13882 - slFr:4762 - slTo:4732 - nlA:0
+    Line Starts: 537:13851 538:13880 539:13881 540:13882
+    Undo (3) - sz:540:13882 - slFr:4761 - slTo:4465 - nlA:0
+    Line Starts: 537:13851 538:13880 539:13881 540:13882
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:540:13882 - slFr:193:29:4761 - slTo:178:8:4465 - nlA:0
+    Line Starts: 537:13851 538:13880 539:13881 540:13882
+    Undo (2) - Undo size: 13 - Repl from: 4379 - Repl to: 4404
+    Delete Selection (1) - Text: c8a718
+    Text - sz:540:13882 - slFr:193:29:4379 - slTo:178:8:4404 - nlA:0
+    Line Starts: 537:13851 538:13880 539:13881 540:13882
+    Delete Selection (2) - From line: 178 - From col: 8 - To line: 193 - To col: 29
+    Delete Selection (3) - sz:538:13857 - slFr:4379 - slTo:4379 - nlA:0
+    Line Starts: 535:13826 536:13855 537:13856 538:13857
+    Insert Text (1) - Text: c8a718 - size: 13 - clean: 1
+    Text - sz:538:13857 - slFr:4379 - slTo:4379 - nlA:0
+    Line Starts: 535:13826 536:13855 537:13856 538:13857
+    Insert Text (2) - numNewLines: 1
+    Insert Text (3) - sz:539:13870 - slFr:4392 - slTo:4392 - nlA:0
+    Line Starts: 536:13839 537:13868 538:13869 539:13870
+    Undo (3) - sz:539:13870 - slFr:4391 - slTo:4288 - nlA:0
+    Line Starts: 536:13839 537:13868 538:13869 539:13870
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: c8a718 - Undo: 1
+    Text - sz:539:13870 - slFr:172:32:4391 - slTo:170:12:4288 - nlA:0
+    Line Starts: 536:13839 537:13868 538:13869 539:13870
+    Undo (2) - Undo size: 13900 - Repl from: 0 - Repl to: 13900
+    Delete Selection (1) - Text: c8a718
+    Text - sz:539:13870 - slFr:172:32:0 - slTo:170:12:13900 - nlA:0
+    Line Starts: 536:13839 537:13868 538:13869 539:13870
+    Delete Selection (2) - From line: 170 - From col: 12 - To line: 172 - To col: 32
+
+
+Registers
+  EAX=07033696  EBX=00000001  ECX=3FFFF9A5  EDX=00000002  ESI=07035000
+  EDI=070319B4  EBP=0019DDA4  ESP=0019DD9C  EIP=00527F13  FLG=00210206
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+Not enough space for modules.
+
+------------------------------------------------------
+
+Crashed in Crash Handler!
